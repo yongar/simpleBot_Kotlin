@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/bot/SimpleBot.kt
+    visible: true
+    learner_created: false
+  - name: test/ChattyBotTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10770#comment
+status: Solved
+record: 2
